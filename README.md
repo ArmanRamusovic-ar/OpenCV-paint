@@ -9,7 +9,7 @@
 <h3> 1. Circle </h3>
 <h3> 2. Rectangle </h3>
 <h3> 3. Line </h3>
-</h3> 4. Brush and smart line </h3>
+<h3> 4. Brush and smart line </h3>
 
 
 
